@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fdca018fec1104a",
+        "id": "0238b7a6f33c1a60",
         "type": "tabs",
         "children": [
           {
-            "id": "2f297b595061a593",
+            "id": "a9372b7e565934be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": ".makemd/fileCache.mdc",
+                "staged": false,
+                "hash": "2766c308c2633a52ab0f7d81610abdc4cf7f1abb"
               },
-              "icon": "lucide-file",
-              "title": "Parotid Lipoma Draft 1"
+              "icon": "git-pull-request",
+              "title": "Diff View (fileCache.mdc)"
             }
           }
         ],
@@ -36,6 +35,26 @@
         "id": "5b442f39fbdd3771",
         "type": "tabs",
         "children": [
+          {
+            "id": "ca0dd732fc788b75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "1bc9c6e58dd0e139",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
           {
             "id": "c342e3f674d1e77a",
             "type": "leaf",
@@ -248,6 +267,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "copilot:Copilot Chat": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
@@ -260,13 +280,22 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "da7111fac4fb4270",
+  "active": "ca0dd732fc788b75",
   "lastOpenFiles": [
+    "Parotid Lipoma/Research CV.md",
+    "Research/{{annot.imageRelativePath}}.md",
+    "Research/Untitled.canvas",
+    "Research/Composite Outcomes.md",
+    "Research/CNN.canvas",
+    "Research/@salehBrownRiceWhite2019.md",
+    "Research/@paparoRareCaseParotid2016.md",
+    "Research/@kuntzGastrointestinalCancerClassification2021.md",
+    "Research/@estevaDermatologistlevelClassificationSkin2017.md",
+    "Research",
+    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
     "Parotid Lipoma/Untitled.md",
     "Parotid Lipoma/LOR.md",
     "Parotid Lipoma/lipoma.md",
-    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
-    "Parotid Lipoma/Research CV.md",
     "@kuntzGastrointestinalCancerClassification2021.md",
     "kuntzGastrointestinalCancerClassification2021/image-3-x55-y128.png",
     "Parotid Lipoma/Images/fig2.png",
@@ -298,14 +327,8 @@
     "Transhumanism/Untitled.canvas",
     "Untitled.canvas",
     "2025-03-03.md",
-    "@estevaDermatologistlevelClassificationSkin2017.md",
-    "John Hopkins.md",
     "Electives",
-    "2024-11-20.md",
     "Zotero/Untitled.canvas",
-    "Zotero/Paper Template.md",
-    "Zotero/Basic import with properties.md",
-    "Zotero/Separate Highlights with headings.md",
     "Tags",
     "iyengarObesityCancerLocal2015",
     "Transhumanism/attachments",
