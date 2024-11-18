@@ -11,14 +11,15 @@
             "id": "a9372b7e565934be",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".makemd/fileCache.mdc",
-                "staged": false,
-                "hash": "2766c308c2633a52ab0f7d81610abdc4cf7f1abb"
+                "file": "Parotid Lipoma/Research CV.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (fileCache.mdc)"
+              "icon": "lucide-file",
+              "title": "Research CV"
             }
           }
         ],
