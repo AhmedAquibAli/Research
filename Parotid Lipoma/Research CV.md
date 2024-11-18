@@ -56,7 +56,4 @@ Chairperson
 **Marco-Polo Resarch Club OMC**
 2023-2024
 
-osmecon
-asfd
-
 
