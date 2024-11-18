@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "nba": "date",
+    "Doccuments_Required": "multitext",
+    "Rotations": "multitext",
+    "Available_Dates": "date",
+    "newColumn13": "date",
+    "Available Dates start": "date",
+    "Available Dates End": "date",
+    "Authors": "multitext",
+    "Keywords": "multitext"
+  }
+}

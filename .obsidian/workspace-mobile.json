@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "969faf230bb771eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "164823c0d4cf606b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556fb5f6474ba619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@estevaDermatologistlevelClassificationSkin2017.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@estevaDermatologistlevelClassificationSkin2017"
+            }
+          },
+          {
+            "id": "7fefb0dfa0ecc592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@estevaDermatologistlevelClassificationSkin2017.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@estevaDermatologistlevelClassificationSkin2017"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "75a58b7301c6cf25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54386eba251cf509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parotid Lipoma/Research CV.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Research CV"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "055b5fe3ef2d1f40",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2cadbd54e73f7c8b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e89d31563b523326",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1fbab44fee384bfa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3d2bcfacf42e01b1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "8c414773dcce1cce",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2a6d1b80a643c361",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "29968fed3e154463",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Transhumanism/Transhumanism Poster.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bbb3a6e073378819",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Transhumanism/Transhumanism.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "345f4e211b5111e9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Transhumanism/Transhumanism.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Open settings": false
+    }
+  },
+  "active": "54386eba251cf509",
+  "lastOpenFiles": [
+    "Electives/Electives database.md",
+    "Electives/Emory School of Medicine.md",
+    "@estevaDermatologistlevelClassificationSkin2017.md",
+    "Transhumanism/Transhumanism Poster.canvas",
+    "@kuntzGastrointestinalCancerClassification2021.md",
+    "Transhumanism/Transhumanism.md",
+    "Transhumanism/asdfljasf.md",
+    "Transhumanism/Inspiration board.md",
+    "Transhumanism/Pasted image 20240907115701.png",
+    "Transhumanism/@paparoRareCaseParotid2016.md"
+  ]
+}

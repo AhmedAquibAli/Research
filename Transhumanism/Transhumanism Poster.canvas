@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"2dc2ebbac56ed636","type":"group","x":-80,"y":560,"width":1184,"height":273,"color":"5","label":"Untitled group"},
+		{"id":"2036652f65f60939","type":"file","file":"Transhumanism/attachments/Pasted image 20240905182506.png","x":1800,"y":1087,"width":400,"height":304},
+		{"id":"1f16883b13c9787b","type":"text","text":"Definition","x":-600,"y":140,"width":250,"height":60,"color":"1"},
+		{"id":"deb02627ea603a96","type":"text","text":"Ethical Concerns","x":-600,"y":1220,"width":250,"height":60},
+		{"id":"b697e8a0737fcc7a","type":"text","text":"Applications","x":-600,"y":900,"width":250,"height":60},
+		{"id":"88260575dd2affce","type":"text","text":"Medical relavance","x":-600,"y":600,"width":250,"height":60},
+		{"id":"19788f87116017af","type":"text","text":" Transhumanism focuses on changing and improving natural human characteristics through biological, technological, and cognitive modifications. While posthumanism draws attention to the crisis of humanism, transhumanism is the latter’s heir.\n","x":162,"y":273,"width":638,"height":187,"color":"1"},
+		{"id":"250513fc15095ad2","type":"file","file":"Transhumanism/attachments/Pasted image 20240905180911.png","x":880,"y":254,"width":400,"height":226},
+		{"id":"6fad3153ac212398","type":"file","file":"Transhumanism/Transhumanism.md","subpath":"#**What is transhumanism?**","x":260,"y":-170,"width":540,"height":340,"color":"4"},
+		{"id":"1abdc062f686a17c","type":"file","file":"Transhumanism/attachments/Pasted image 20240905181416.png","x":907,"y":-212,"width":400,"height":225},
+		{"id":"cf4ec03a5de6a854","type":"text","text":"Philosophical and Futuristic movement","x":-350,"y":-160,"width":448,"height":60,"color":"4"},
+		{"id":"357584cf3b34708c","type":"text","text":"vs Posthumanism","x":-350,"y":400,"width":448,"height":60,"color":"1"},
+		{"id":"023f3b72f314c9d4","type":"file","file":"Transhumanism/attachments/Pasted image 20240905181603.png","x":249,"y":577,"width":218,"height":217},
+		{"id":"1a10a767fbc28aec","type":"file","file":"Transhumanism/attachments/Pasted image 20240905182023.png","x":202,"y":918,"width":332,"height":187},
+		{"id":"4c4364826b7cdfc6","type":"file","file":"Transhumanism/attachments/Pasted image 20240905182130.png","x":202,"y":1151,"width":332,"height":187},
+		{"id":"4d8d39bbf39a60f8","type":"file","file":"Transhumanism/attachments/Pasted image 20240905182220.png","x":562,"y":1158,"width":333,"height":174},
+		{"id":"364913710d9dcbdb","type":"text","text":"Neuralink","x":-63,"y":961,"width":208,"height":50},
+		{"id":"347c21c8ab5462fc","type":"text","text":"Bionics","x":-63,"y":1194,"width":208,"height":50},
+		{"id":"017df7054429e5a4","type":"file","file":"Transhumanism/attachments/Pasted image 20240905181726.png","x":521,"y":577,"width":282,"height":206},
+		{"id":"3f71500b0b00a885","type":"file","file":"Transhumanism/attachments/Pasted image 20240905181759.png","x":861,"y":590,"width":227,"height":227},
+		{"id":"8654c2421fa3351f","type":"text","text":"Artificial Heart","x":-63,"y":655,"width":208,"height":50},
+		{"id":"f06b88a628189fb2","type":"file","file":"Transhumanism/attachments/Pasted image 20240905182233.png","x":974,"y":1116,"width":333,"height":222},
+		{"id":"59a6eb54d84e8063","type":"file","file":"Transhumanism/attachments/Pasted image 20240905182420.png","x":1353,"y":1087,"width":333,"height":315}
+	],
+	"edges":[
+		{"id":"bdd76265c95fc571","fromNode":"cf4ec03a5de6a854","fromSide":"bottom","toNode":"6fad3153ac212398","toSide":"left"},
+		{"id":"74b08c031f7c667f","fromNode":"1f16883b13c9787b","fromSide":"right","toNode":"cf4ec03a5de6a854","toSide":"bottom"},
+		{"id":"38439ad9d696a548","fromNode":"357584cf3b34708c","fromSide":"right","toNode":"19788f87116017af","toSide":"left"},
+		{"id":"c497c4a1ecbec326","fromNode":"1f16883b13c9787b","fromSide":"right","toNode":"357584cf3b34708c","toSide":"top"},
+		{"id":"4524aa9f53e97d13","fromNode":"19788f87116017af","fromSide":"right","toNode":"250513fc15095ad2","toSide":"left"},
+		{"id":"2074e81c722ba381","fromNode":"6fad3153ac212398","fromSide":"right","toNode":"1abdc062f686a17c","toSide":"left"},
+		{"id":"4f4f0db00d937498","fromNode":"88260575dd2affce","fromSide":"right","toNode":"8654c2421fa3351f","toSide":"left"},
+		{"id":"4ef0e37c32ee6abd","fromNode":"b697e8a0737fcc7a","fromSide":"right","toNode":"8654c2421fa3351f","toSide":"left"},
+		{"id":"3a3a6af08f90c502","fromNode":"b697e8a0737fcc7a","fromSide":"right","toNode":"347c21c8ab5462fc","toSide":"left"},
+		{"id":"728d3c2b9b8060cf","fromNode":"88260575dd2affce","fromSide":"right","toNode":"364913710d9dcbdb","toSide":"left"},
+		{"id":"25f17b2c582a98bf","fromNode":"b697e8a0737fcc7a","fromSide":"right","toNode":"364913710d9dcbdb","toSide":"left"}
+	]
+}

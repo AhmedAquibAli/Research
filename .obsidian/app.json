@@ -1,0 +1,13 @@
+{
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "readableLineLength": true
+}
