@@ -14,7 +14,7 @@
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
-                "staged": true
+                "staged": false
               },
               "icon": "git-pull-request",
               "title": "Diff View (workspace.json)"
@@ -34,26 +34,6 @@
         "id": "5b442f39fbdd3771",
         "type": "tabs",
         "children": [
-          {
-            "id": "ca0dd732fc788b75",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "1bc9c6e58dd0e139",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
           {
             "id": "c342e3f674d1e77a",
             "type": "leaf",
@@ -84,6 +64,26 @@
             }
           },
           {
+            "id": "1bc9c6e58dd0e139",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "ca0dd732fc788b75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "df07fd8e4328f96e",
             "type": "leaf",
             "state": {
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -248,7 +249,7 @@
             }
           },
           {
-            "id": "da7111fac4fb4270",
+            "id": "18d673e4d54dc29c",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -281,6 +282,9 @@
   },
   "active": "a9372b7e565934be",
   "lastOpenFiles": [
+    "gitignore.txt",
+    "untitled folder",
+    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
     "Parotid Lipoma/Research CV.md",
     "Research/{{annot.imageRelativePath}}.md",
     "Research/Untitled.canvas",
@@ -291,7 +295,6 @@
     "Research/@kuntzGastrointestinalCancerClassification2021.md",
     "Research/@estevaDermatologistlevelClassificationSkin2017.md",
     "Research",
-    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
     "Parotid Lipoma/Untitled.md",
     "Parotid Lipoma/LOR.md",
     "Parotid Lipoma/lipoma.md",
@@ -325,7 +328,6 @@
     "CNN.canvas",
     "Transhumanism/Untitled.canvas",
     "Untitled.canvas",
-    "2025-03-03.md",
     "Electives",
     "Zotero/Untitled.canvas",
     "Tags",

@@ -18,5 +18,6 @@
   "typewriter-mode",
   "obsidian-prozen",
   "copilot",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-version-history-diff"
 ]
