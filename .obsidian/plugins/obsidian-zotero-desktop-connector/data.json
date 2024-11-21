@@ -11,7 +11,7 @@
       "outputPathTemplate": "@{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "Zotero/Separate Highlights with headings.md"
+      "templatePath": "Zotero/Templates/Separate Highlights with headings.md"
     },
     {
       "name": "Import #1",

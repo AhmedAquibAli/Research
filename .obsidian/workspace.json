@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,7 +282,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "863a6cbc984ea3cd",
+  "active": "a9372b7e565934be",
   "lastOpenFiles": [
     "gitignore.txt",
     "untitled folder",
