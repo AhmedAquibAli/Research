@@ -4,42 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "164823c0d4cf606b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "556fb5f6474ba619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@estevaDermatologistlevelClassificationSkin2017.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "@estevaDermatologistlevelClassificationSkin2017"
-            }
-          },
-          {
-            "id": "7fefb0dfa0ecc592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@estevaDermatologistlevelClassificationSkin2017.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "@estevaDermatologistlevelClassificationSkin2017"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "75a58b7301c6cf25",
         "type": "tabs",
         "children": [
@@ -49,14 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parotid Lipoma/Research CV.md",
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
                 "mode": "preview",
-                "backlinks": false,
+                "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Research CV"
-            }
+              "title": "Parotid Lipoma Draft 1"
+            },
+            "group": "54aa4563eaa38bd1"
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "a769ba4b5dd7d115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25091db7d1853adc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.7479486436643992,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "54aa4563eaa38bd1"
           }
         ]
       }
@@ -146,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Transhumanism/Transhumanism Poster.canvas",
+            "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,17 +189,29 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Transhumanism/Transhumanism.md"
+            "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "8505b8f2546d318c",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
@@ -201,11 +223,12 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "54386eba251cf509",
+  "active": "25091db7d1853adc",
   "lastOpenFiles": [
+    "Parotid Lipoma/Research CV.md",
+    "@estevaDermatologistlevelClassificationSkin2017.md",
     "Electives/Electives database.md",
     "Electives/Emory School of Medicine.md",
-    "@estevaDermatologistlevelClassificationSkin2017.md",
     "Transhumanism/Transhumanism Poster.canvas",
     "@kuntzGastrointestinalCancerClassification2021.md",
     "Transhumanism/Transhumanism.md",

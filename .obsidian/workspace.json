@@ -11,13 +11,15 @@
             "id": "a9372b7e565934be",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "Parotid Lipoma Draft 1"
             }
           }
         ],
@@ -93,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
       {
         "id": "86f7c589f438e6b3",
         "type": "tabs",
-        "dimension": 35.45359749739312,
+        "dimension": 26.737967914438503,
         "children": [
           {
             "id": "475b72d54f9c93b3",
@@ -198,12 +199,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "3eca4df43cb507e0",
         "type": "tabs",
-        "dimension": 64.54640250260688,
+        "dimension": 73.2620320855615,
         "children": [
           {
             "id": "5f731f065f13e6cb",
@@ -280,7 +281,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a9372b7e565934be",
+  "active": "863a6cbc984ea3cd",
   "lastOpenFiles": [
     "gitignore.txt",
     "untitled folder",
