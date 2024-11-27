@@ -9,7 +9,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyAqIxHeHjshz7OAteUAAMTMre4xg38yj3Q",
+  "googleApiKey": "AIzaSyDexj_6qyuLFVxEMASM6J4uJJw5SH-_M3I",
   "openRouterAiApiKey": "",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "gemini-1.5-flash|google",
