@@ -1,42 +1,21 @@
 {
   "main": {
-    "id": "71ede01e2a6041fc",
+    "id": "9256ade60cbddbfb",
     "type": "split",
     "children": [
       {
-        "id": "0238b7a6f33c1a60",
+        "id": "27368b04d8c6b60f",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9a4370b6ab43e1",
+            "id": "cc04843e689e5404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statisitcs/Kaplan-Meier curve.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kaplan-Meier curve"
+              "title": "New tab"
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "09553a5618854de7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Statisitcs/[Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View ([Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf)"
-            }
->>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
           }
         ]
       }
@@ -44,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "87fdc29d15f99afc",
+    "id": "5490c49e12431df9",
     "type": "split",
     "children": [
       {
-        "id": "5b442f39fbdd3771",
+        "id": "6442b9f2efeabf74",
         "type": "tabs",
         "children": [
           {
-            "id": "c342e3f674d1e77a",
+            "id": "eca0c4061ac2b61e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,13 +43,13 @@
             }
           },
           {
-            "id": "b752fd12462e7e3f",
+            "id": "d97852c50250a567",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,27 +60,7 @@
             }
           },
           {
-            "id": "1bc9c6e58dd0e139",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "ca0dd732fc788b75",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "df07fd8e4328f96e",
+            "id": "614a3aabbb3fe664",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,85 +69,53 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "58ac2d2ca4a3766b",
+    "id": "242c9019d1feab8e",
     "type": "split",
     "children": [
       {
-        "id": "86f7c589f438e6b3",
+        "id": "242ba71cb92af1df",
         "type": "tabs",
-        "dimension": 30.020283975659233,
         "children": [
           {
-            "id": "475b72d54f9c93b3",
+            "id": "4af9a20265c1bea7",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Statisitcs/Untitled.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "863a6cbc984ea3cd",
+            "id": "607ec39900a5e26b",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "outgoing-link",
               "state": {
-                "file": "Statisitcs/Untitled.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5530150912162567,
-                  "close": true
-                }
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "494b04dd1cc52169",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Parotid Lipoma Draft 1"
-            }
-          },
-          {
-            "id": "a8a97a842c5676e4",
+            "id": "3a6fe721cb6743af",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -201,178 +128,32 @@
             }
           },
           {
-            "id": "013deb8c26ca4cf6",
+            "id": "4f78dc811823d0f8",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3eca4df43cb507e0",
-        "type": "tabs",
-        "dimension": 69.97971602434077,
-        "children": [
-          {
-            "id": "5f731f065f13e6cb",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
-            }
-          },
-          {
-            "id": "d03638b65c9c2a8f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Statisitcs/Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "ba966a6679d0140a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Statisitcs/Untitled.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
-            }
-          },
-          {
-            "id": "18d673e4d54dc29c",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "cmdr:Open settings": false,
-      "dbfolder:Create a new database table": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "863a6cbc984ea3cd",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Transhumanism/attachments/Pasted image 20240905182023.png",
-    "Transhumanism/Transhumanism.md",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
-    "Transhumanism.md",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research.pdf",
-    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
-    "Parotid Lipoma/Untitled.md",
-    "Parotid Lipoma/Research CV.md",
-    "Parotid Lipoma/LOR.md",
-    "Parotid Lipoma/lipoma.md",
-    "Parotid Lipoma/Images/fig1.png",
-    "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
-    "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
-    "Parotid Lipoma/Images/1c8bdb4c9d95c928fa6c41a7e665d8fe3e093e6f42982f99e03fc4b740ca2a67.png",
-    "Statisitcs/Untitled.md",
-    "Statisitcs/Kaplan-Meier curve.md",
-    "Statisitcs/Untitled 1.md",
-    "Statisitcs/Composite Outcomes.md",
-=======
-    "Statisitcs/Untitled 1.md",
-    "Statisitcs/Untitled.md",
->>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
-    "Statisitcs/log-rank test.md",
-    "exports/Untitled/Untitled_quarto.qmd",
-    "exports/Untitled",
-    "exports",
-    "Statisitcs/Kaplan-Meier curve.md",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf.md",
-    "Statisitcs/Composite Outcomes.md",
-    "Zotero/@estevaDermatologistlevelClassificationSkin2017.md",
-    "Zotero/Templates/Separate Highlights with headings.md",
-    "{{annot.imageRelativePath}}.md",
-    "Zotero/Templates/Basic import with properties.md",
-    "Zotero/Untitled.canvas",
-    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
-    "Zotero/Templates",
-    "Statisitcs",
-    "Parotid Lipoma/Research CV.md",
-    "Research/{{annot.imageRelativePath}}.md",
-    "Research/Untitled.canvas",
-    "Research/Composite Outcomes.md",
-    "Research/CNN.canvas",
-    "Research/@salehBrownRiceWhite2019.md",
-    "Research/@paparoRareCaseParotid2016.md",
-    "Research/@kuntzGastrointestinalCancerClassification2021.md",
-    "Research/@estevaDermatologistlevelClassificationSkin2017.md",
-    "Research",
-    "Parotid Lipoma/Untitled.md",
-    "Parotid Lipoma/LOR.md",
-    "Parotid Lipoma/lipoma.md",
-    "Zotero/@kuntzGastrointestinalCancerClassification2021.md",
-    "kuntzGastrointestinalCancerClassification2021/image-3-x55-y128.png",
-    "Parotid Lipoma/Images/fig2.png",
-    "Parotid Lipoma/Images/fig3.png",
-    "paparoRareCaseParotid2016/image-2-x314-y52.png",
-    "Parotid Lipoma/Images/fig1.png",
-    "Electives/John Hopkins Research Elective.md",
-<<<<<<< HEAD
-=======
-    "Electives/Electives database.md",
-    "Electives/Cleveland Clinic.md",
-    "Electives/UAB-University of Alabama.md",
->>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
-    "Parotid Lipoma/Images/fig4.png",
-    "Parotid Lipoma/Images/1c8bdb4c9d95c928fa6c41a7e665d8fe3e093e6f42982f99e03fc4b740ca2a67.png",
-    "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
-    "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
-    "Parotid Lipoma/Images",
-    "Parotid Lipoma",
-    "Transhumanism/Transhumanism Poster.canvas",
-    "CNN.canvas",
-    "Transhumanism/Untitled.canvas",
-    "Untitled.canvas"
-  ]
+  "active": "cc04843e689e5404",
+  "lastOpenFiles": []
 }
