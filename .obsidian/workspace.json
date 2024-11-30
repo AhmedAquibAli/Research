@@ -35,6 +35,9 @@
               },
               "icon": "git-pull-request",
               "title": "Diff View ([Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf)"
+<<<<<<< HEAD
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
+=======
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
             }
           }
@@ -126,7 +129,11 @@
         "id": "86f7c589f438e6b3",
         "type": "tabs",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "dimension": 23.12977099236641,
+=======
+        "dimension": 30.020283975659233,
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
         "dimension": 30.020283975659233,
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -150,6 +157,10 @@
               "type": "localgraph",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                "file": "Statisitcs/Untitled.md",
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
                 "file": "Statisitcs/Untitled.md",
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -176,7 +187,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
 <<<<<<< HEAD
+<<<<<<< HEAD
                   "scale": 0.27414882698175586,
+=======
+                  "scale": 0.5530150912162567,
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
                   "scale": 0.5530150912162567,
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -185,7 +200,11 @@
               },
               "icon": "lucide-git-fork",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Graph view"
+=======
+              "title": "Graph of Untitled"
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
               "title": "Graph of Untitled"
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -237,7 +256,11 @@
         "id": "3eca4df43cb507e0",
         "type": "tabs",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "dimension": 76.87022900763358,
+=======
+        "dimension": 69.97971602434077,
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
         "dimension": 69.97971602434077,
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -259,7 +282,11 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+=======
+                "file": "Statisitcs/Untitled.md",
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
                 "file": "Statisitcs/Untitled.md",
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -273,7 +300,11 @@
               },
               "icon": "links-coming-in",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Backlinks for Parotid Lipoma Draft 1"
+=======
+              "title": "Backlinks for Untitled"
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
               "title": "Backlinks for Untitled"
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -286,7 +317,11 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+=======
+                "file": "Statisitcs/Untitled.md",
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
                 "file": "Statisitcs/Untitled.md",
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -295,7 +330,11 @@
               },
               "icon": "links-going-out",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Outgoing links from Parotid Lipoma Draft 1"
+=======
+              "title": "Outgoing links from Untitled"
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
               "title": "Outgoing links from Untitled"
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
@@ -336,6 +375,7 @@
   "active": "863a6cbc984ea3cd",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Parotid Lipoma/Parotid Lipoma Draft 1.md",
     "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research.pdf",
     "Transhumanism.md",
@@ -353,6 +393,8 @@
     "gitignore.txt",
     "untitled folder",
 =======
+=======
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
     "Statisitcs/Untitled 1.md",
     "Statisitcs/Untitled.md",
     "Statisitcs/log-rank test.md",
@@ -372,6 +414,9 @@
     "Zotero/Templates",
     "Statisitcs",
     "Parotid Lipoma/Research CV.md",
+<<<<<<< HEAD
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
+=======
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
     "Research/{{annot.imageRelativePath}}.md",
     "Research/Untitled.canvas",
@@ -383,10 +428,13 @@
     "Research/@estevaDermatologistlevelClassificationSkin2017.md",
     "Research",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Parotid Lipoma/LOR.md",
     "Parotid Lipoma/lipoma.md",
     "@kuntzGastrointestinalCancerClassification2021.md",
 =======
+=======
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
     "Parotid Lipoma/Untitled.md",
     "Parotid Lipoma/LOR.md",
     "Parotid Lipoma/lipoma.md",
@@ -406,8 +454,11 @@
     "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
     "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Transhumanism/Inspiration board.md",
     "Transhumanism/Transhumanism.md",
+=======
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
     "Parotid Lipoma/Images",
