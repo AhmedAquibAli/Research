@@ -19,5 +19,6 @@
   "obsidian-prozen",
   "copilot",
   "obsidian-git",
-  "obsidian-version-history-diff"
+  "obsidian-version-history-diff",
+  "obsidian-local-rest-api"
 ]
