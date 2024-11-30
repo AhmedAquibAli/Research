@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0238b7a6f33c1a60",
+        "id": "8d3c28f9e75defae",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9a4370b6ab43e1",
+            "id": "ad8d33173a512387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statisitcs/Kaplan-Meier curve.md",
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kaplan-Meier curve"
-            }
-          },
-          {
-            "id": "09553a5618854de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transhumanism.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Transhumanism"
+              "title": "Parotid Lipoma Draft 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Transhumanism.md"
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Transhumanism"
+              "title": "File properties for Parotid Lipoma Draft 1"
             }
           },
           {
@@ -215,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3eca4df43cb507e0",
@@ -296,8 +280,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "09553a5618854de7",
+  "active": "ca0dd732fc788b75",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+    "Statisitcs/Kaplan-Meier curve.md",
+    "Statisitcs/log-rank test.md",
+    "Transhumanism.md",
+    "parotid lipoma.md",
+    "Parotid Lipoma/lipoma.md",
+    "Vault.md",
+    "Tags",
     "Research/widgets/widget_d029fa3a_.html",
     "Research/widgets",
     "Research/paparoRareCaseParotid2016/image-2-x314-y52.png",
@@ -317,12 +310,10 @@
     "Research/Zotero/Templates/Paper Template.md",
     "Research/Zotero/Templates/Formatted Annotations.md",
     "Research/Zotero/Templates/Basic import with properties.md",
-    "Research/Zotero/Templates",
     "Research/Zotero/@salehBrownRiceWhite2019.md",
     "Research/Zotero/@paparoRareCaseParotid2016.md",
     "Research/Zotero/@kuntzGastrointestinalCancerClassification2021.md",
     "Research/Zotero/@estevaDermatologistlevelClassificationSkin2017.md",
-    "Research/Zotero",
     "Research/Untitled.canvas",
     "Research/Transhumanism/attachments/Pasted image 20240907104601.png",
     "Research/Transhumanism/attachments/Pasted image 20240907104557.png",
@@ -340,13 +331,6 @@
     "Research/Statisitcs/Kaplan-Meier curve.md",
     "Research/Statisitcs/Composite Outcomes.md",
     "Research/Parotid Lipoma/lipoma.md",
-    "Research/Parotid Lipoma/Untitled.md",
-    "Research/Parotid Lipoma/Research CV.md",
-    "Research/Parotid Lipoma/Parotid Lipoma Draft 1.md",
-    "Research/Parotid Lipoma/LOR.md",
-    "Research/Electives/Yale school of medicine.md",
-    "Research/Electives/Wiel cornell.md",
-    "Research/Electives/University of North Carolina.md",
     "Research/CNN.canvas",
     "Zotero/Untitled.canvas",
     "Transhumanism/Transhumanism Poster.canvas",
