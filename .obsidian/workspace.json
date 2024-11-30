@@ -1,34 +1,19 @@
 {
   "main": {
-    "id": "9256ade60cbddbfb",
+    "id": "737e456d5bc312a8",
     "type": "split",
     "children": [
       {
-        "id": "27368b04d8c6b60f",
+        "id": "a96b6dadd198c5ec",
         "type": "tabs",
         "children": [
           {
-            "id": "cc04843e689e5404",
+            "id": "0a1046b367d245e1",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Kaplan-Meier curve"
-            }
-          },
-          {
-            "id": "09553a5618854de7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Statisitcs/[Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View ([Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf)"
-            }
               "title": "New tab"
             }
           }
@@ -38,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5490c49e12431df9",
+    "id": "a5fbd1a331f1371c",
     "type": "split",
     "children": [
       {
-        "id": "6442b9f2efeabf74",
+        "id": "d2a4fc36c046036a",
         "type": "tabs",
         "children": [
           {
-            "id": "eca0c4061ac2b61e",
+            "id": "fe3960065f6b98f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +43,7 @@
             }
           },
           {
-            "id": "d97852c50250a567",
+            "id": "d4a37b4e7041e08b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +60,7 @@
             }
           },
           {
-            "id": "614a3aabbb3fe664",
+            "id": "2073a99f471b9b09",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,16 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "242c9019d1feab8e",
+    "id": "7e60c44524337928",
     "type": "split",
     "children": [
       {
-        "id": "242ba71cb92af1df",
+        "id": "f4ee68b9e0afe725",
         "type": "tabs",
-        "dimension": 30.020283975659233,
         "children": [
           {
-            "id": "4af9a20265c1bea7",
+            "id": "ae7dc5e9272b1ca8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,56 +102,20 @@
             }
           },
           {
-            "id": "607ec39900a5e26b",
+            "id": "0cc0735c433e47ec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statisitcs/Untitled.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5530150912162567,
-                  "close": true
-                }
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "494b04dd1cc52169",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Parotid Lipoma Draft 1"
-            }
-          },
-          {
-            "id": "3a6fe721cb6743af",
+            "id": "0c60c9c386a7126a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,82 +128,16 @@
             }
           },
           {
-            "id": "4f78dc811823d0f8",
+            "id": "efb229a6ab946b4c",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3eca4df43cb507e0",
-        "type": "tabs",
-        "dimension": 69.97971602434077,
-        "children": [
-          {
-            "id": "5f731f065f13e6cb",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
-            }
-          },
-          {
-            "id": "d03638b65c9c2a8f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Statisitcs/Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "ba966a6679d0140a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Statisitcs/Untitled.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
-            }
-          },
-          {
-            "id": "18d673e4d54dc29c",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,60 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "863a6cbc984ea3cd",
-  "lastOpenFiles": [
-    "Statisitcs/Untitled 1.md",
-    "Statisitcs/Untitled.md",
-    "Statisitcs/log-rank test.md",
-    "exports/Untitled/Untitled_quarto.qmd",
-    "exports/Untitled",
-    "exports",
-    "Statisitcs/Kaplan-Meier curve.md",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf.md",
-    "Statisitcs/Composite Outcomes.md",
-    "Zotero/@estevaDermatologistlevelClassificationSkin2017.md",
-    "Zotero/Templates/Separate Highlights with headings.md",
-    "{{annot.imageRelativePath}}.md",
-    "Zotero/Templates/Basic import with properties.md",
-    "Zotero/Untitled.canvas",
-    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
-    "Zotero/Templates",
-    "Statisitcs",
-    "Parotid Lipoma/Research CV.md",
-    "Research/{{annot.imageRelativePath}}.md",
-    "Research/Untitled.canvas",
-    "Research/Composite Outcomes.md",
-    "Research/CNN.canvas",
-    "Research/@salehBrownRiceWhite2019.md",
-    "Research/@paparoRareCaseParotid2016.md",
-    "Research/@kuntzGastrointestinalCancerClassification2021.md",
-    "Research/@estevaDermatologistlevelClassificationSkin2017.md",
-    "Research",
-    "Parotid Lipoma/Untitled.md",
-    "Parotid Lipoma/LOR.md",
-    "Parotid Lipoma/lipoma.md",
-    "Zotero/@kuntzGastrointestinalCancerClassification2021.md",
-    "kuntzGastrointestinalCancerClassification2021/image-3-x55-y128.png",
-    "Parotid Lipoma/Images/fig2.png",
-    "Parotid Lipoma/Images/fig3.png",
-    "paparoRareCaseParotid2016/image-2-x314-y52.png",
-    "Parotid Lipoma/Images/fig1.png",
-    "Electives/John Hopkins Research Elective.md",
-    "Electives/Electives database.md",
-    "Electives/Cleveland Clinic.md",
-    "Electives/UAB-University of Alabama.md",
-    "Parotid Lipoma/Images/fig4.png",
-    "Parotid Lipoma/Images/1c8bdb4c9d95c928fa6c41a7e665d8fe3e093e6f42982f99e03fc4b740ca2a67.png",
-    "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
-    "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
-    "Parotid Lipoma/Images",
-    "Parotid Lipoma",
-    "Transhumanism/Transhumanism Poster.canvas",
-    "kuntzGastrointestinalCancerClassification2021/image-4-x114-y488.png",
-    "CNN.canvas",
-    "Transhumanism/Untitled.canvas",
-    "Untitled.canvas",
-    "Electives"
-  ]
+  "active": "0a1046b367d245e1",
+  "lastOpenFiles": []
 }
