@@ -8,7 +8,10 @@
 		{"id":"88260575dd2affce","type":"text","text":"Medical relavance","x":-600,"y":600,"width":250,"height":60},
 		{"id":"19788f87116017af","type":"text","text":" Transhumanism focuses on changing and improving natural human characteristics through biological, technological, and cognitive modifications. While posthumanism draws attention to the crisis of humanism, transhumanism is the latter’s heir.\n","x":162,"y":273,"width":638,"height":187,"color":"1"},
 		{"id":"250513fc15095ad2","type":"file","file":"Transhumanism/attachments/Pasted image 20240905180911.png","x":880,"y":254,"width":400,"height":226},
+<<<<<<< HEAD
 		{"id":"6fad3153ac212398","type":"file","file":"Transhumanism.md","subpath":"#**What is transhumanism?**","x":260,"y":-170,"width":540,"height":340,"color":"4"},
+=======
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 		{"id":"6fad3153ac212398","type":"file","file":"Transhumanism/Transhumanism.md","subpath":"#**What is transhumanism?**","x":260,"y":-170,"width":540,"height":340,"color":"4"},
 		{"id":"1abdc062f686a17c","type":"file","file":"Transhumanism/attachments/Pasted image 20240905181416.png","x":907,"y":-212,"width":400,"height":225},
 		{"id":"cf4ec03a5de6a854","type":"text","text":"Philosophical and Futuristic movement","x":-350,"y":-160,"width":448,"height":60,"color":"4"},

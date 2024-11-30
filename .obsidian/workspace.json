@@ -21,6 +21,22 @@
               "icon": "lucide-file",
               "title": "Kaplan-Meier curve"
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "09553a5618854de7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Statisitcs/[Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View ([Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf)"
+            }
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
           }
         ]
       }
@@ -99,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 300
   },
   "right": {
     "id": "58ac2d2ca4a3766b",
@@ -108,7 +124,7 @@
       {
         "id": "86f7c589f438e6b3",
         "type": "tabs",
-        "dimension": 28.829787234042552,
+        "dimension": 30.020283975659233,
         "children": [
           {
             "id": "475b72d54f9c93b3",
@@ -128,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
                 "file": "Statisitcs/Untitled.md",
                 "options": {
                   "collapse-filter": true,
