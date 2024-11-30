@@ -20,8 +20,11 @@
   "copilot",
   "obsidian-git",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "obsidian-version-history-diff",
   "obsidian-local-rest-api"
+=======
+>>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
   "obsidian-version-history-diff"
