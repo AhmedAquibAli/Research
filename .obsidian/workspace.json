@@ -21,21 +21,6 @@
               "icon": "lucide-file",
               "title": "Kaplan-Meier curve"
             }
-          },
-          {
-            "id": "09553a5618854de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transhumanism.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Transhumanism"
-            }
           }
         ]
       }
@@ -297,6 +282,11 @@
   },
   "active": "ca0dd732fc788b75",
   "lastOpenFiles": [
+    "Transhumanism.md",
+    "Transhumanism/attachments/Pasted image 20240905182023.png",
+    "Transhumanism/Transhumanism.md",
+    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
+    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research.pdf",
     "Parotid Lipoma/Parotid Lipoma Draft 1.md",
     "Parotid Lipoma/Untitled.md",
     "Parotid Lipoma/Research CV.md",
@@ -310,7 +300,6 @@
     "Statisitcs/Kaplan-Meier curve.md",
     "Statisitcs/Untitled 1.md",
     "Statisitcs/Composite Outcomes.md",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research.pdf",
     "Statisitcs/log-rank test.md",
     "exports/Untitled/Untitled_quarto.qmd",
     "exports/Untitled",
@@ -338,8 +327,6 @@
     "Parotid Lipoma/Images/fig3.png",
     "paparoRareCaseParotid2016/image-2-x314-y52.png",
     "Electives/John Hopkins Research Elective.md",
-    "Electives/Electives database.md",
-    "Electives/Cleveland Clinic.md",
     "Parotid Lipoma/Images/fig4.png",
     "Parotid Lipoma/Images",
     "Parotid Lipoma",
