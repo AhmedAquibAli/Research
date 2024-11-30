@@ -1,0 +1,178 @@
+{
+  "apiKey": "VW1MUEJfUXNqanZObHh1aS1DTlRsVXlvUWh4aDRUejdBeVNheklB",
+  "floatingPosition": {
+    "x": 20,
+    "y": 20
+  },
+  "isDocked": false,
+  "chatSessions": [
+    {
+      "id": "1731781229980",
+      "title": "💭 Chat about Relevant, Content, Current",
+      "timestamp": 1731781229980,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Make the background concise",
+          "timestamp": 1731781276360
+        },
+        {
+          "role": "bot",
+          "content": "**Concise Background:**\n\nParotid lipomas are rare, benign tumors that can be difficult to diagnose. They are typically slow-growing, painless masses that can occur in either the superficial or deep lobe of the parotid gland.\n\nImaging techniques such as MRI and CT scans are helpful for diagnosis, as they can visualize the tumor's capsule and adipose tissue. Fine needle aspiration cytology (FNAC) can also be used to confirm the diagnosis.\n\nSurgical excision is the primary treatment for parotid lipomas. The surgical approach depends on the location of the tumor and the risk of facial nerve injury.",
+          "timestamp": 1731781282329
+        },
+        {
+          "role": "user",
+          "content": "Make this concise\n\nParotid gland is the largest salivary gland located anterior to the external auditory canal, overlying the zygoma superiorly and ramus of the mandible laterally 1. Approximately 80% of salivary gland tumors occur in the parotid gland 2. Majority of parotid gland tumors are benign, with pleomorphic adenoma being the most common 3. Lipoma of the parotid gland is rare, with an average incidence of 4.4% among all parotid malignancies, and a male-to-female ratio of 5:1 4. Lipomas represent the most common mesenchymal tumors of the body, of which majority affect the trunk and upper extremities however, they are uncommon in the head and neck regions. The diagnosis of an intraparotid lipoma can be challenging and often confused with mixed parotid tumors 5. Therefore, a more accurate diagnosis is necessary, which is enabled by improved preoperative evaluation tools such as MRI and FNAC. This case report outlines the diagnosis and surgical approach for a rare parotid region lipoma.",
+          "timestamp": 1731781327980
+        },
+        {
+          "role": "bot",
+          "content": "**Concise Background:**\n\nParotid lipomas are rare, benign tumors of the parotid gland. They can be difficult to diagnose, as they can resemble other types of parotid tumors.\n\nImaging techniques such as MRI and CT scans can help visualize the tumor and distinguish it from other lesions. Fine needle aspiration cytology (FNAC) can also be used to confirm the diagnosis.\n\nSurgical excision is the primary treatment for parotid lipomas. The surgical approach depends on the location of the tumor and the risk of facial nerve injury.",
+          "timestamp": 1731781333817
+        },
+        {
+          "role": "user",
+          "content": "Make this concise\n\nCase Presentation\nA 55-year-old gentleman presented with a painless swelling on his right cheek, below and in front of right ear, which he had for four years. The swelling started gradually and has increased in size. He did not report any tooth pain, and no lumps were found in other areas. There is no relevant medical history or family history of tumors in the head and neck regions.\n\nOn local examination, a solitary swelling of about 4 x 3 cm was found in the right pre-auricular region, causing the ear lobule to lift upwards (Fig 1) . The swelling felt firm and was not compressible. The skin over the swelling looked normal, and no other masses in the head and neck area were detected. The examination of the facial nerve showed no abnormalities.\n\nUltrasound, Fine needle aspiration cytology (FNAC), and CT scan were performed sequentially to establish a pre-operative diagnosis and to plan the best surgical approach. Ultrasound revealed a well-defined iso-hyperechoic lesion measuring 43 x 36 x 23 mm in the parotid region with no internal vascularity. FNAC results showed clusters of mature adipocytes mixed with fibroblasts on a mixed hemorrhagic background. CT scan of the head and neck revealed a well-defined 48 x 38 mm lesion with Hounsfield units (HU) of -100 in the right parotid gland involving the superficial and deep lobes, suggesting an intraparotid lipoma (Fig 2). Since ultrasound was unable to distinguish between the superficial and deep lobe, a CT/MRI should be performed to determine the precise location.\n\nWe performed tumor excision via a superficial parotidectomy with facial nerve preservation under general anaesthesia using a modified Blair incision (Fig 3). without causing any significant damage to neurovascular structures.  Intraoperatively a large capsulated soft mass measuring  6 x 5.5 x 2 cm was removed and sent for Histopathological examination, which revealed focal parotid parenchyma with lobules of mature adipocytes separated by fibrous septa, confirming the diagnosis of intraparotid lipoma.\n\nPostoperatively, facial nerve function remained intact (Fig 4). The patient was discharged after 3 days with a smooth recovery. He has been followed up for 12 months with no recurrence of the disease.",
+          "timestamp": 1731781367916
+        },
+        {
+          "role": "bot",
+          "content": "**Concise Case Presentation:**\n\nA 55-year-old man presented with a painless,逐渐 enlarging swelling in the right parotid region for four years. Imaging studies suggested an intraparotid lipoma. Superficial parotidectomy with facial nerve preservation was performed, and histopathology confirmed the diagnosis. Postoperative facial nerve function remained intact, and the patient was discharged after three days with no recurrence at 12-month follow-up.",
+          "timestamp": 1731781373485
+        },
+        {
+          "role": "user",
+          "content": "Make this concise\n\nPleomorphic adenomas represent the most prevalent swellings in the parotid gland, while lipomas are comparatively infrequent. Therefore, a precise preoperative assessment is imperative to confirm the diagnosis before determining the appropriate surgical intervention. The best tool for both diagnosis and surgical planning is MRI, and the definitive diagnosis can only be achieved through histopathological examination.\n\nIn the context of parotid surgeries, it is essential for surgeons to possess significant experience and skill, as injuries to the facial nerve are frequently encountered. Therefore, the primary emphasis should be placed on achieving positive postoperative functional outcomes.",
+          "timestamp": 1731781427949
+        },
+        {
+          "role": "bot",
+          "content": "**Concise Conclusion:**\n\nParotid lipomas are rare, and accurate preoperative assessment is crucial for diagnosis. MRI is the optimal tool for diagnosis and surgical planning, while histopathology provides definitive confirmation.\n\nIn parotid surgery, surgeons must have significant experience and skill to avoid facial nerve injuries and ensure positive postoperative outcomes.",
+          "timestamp": 1731781433186
+        },
+        {
+          "role": "user",
+          "content": "more concise",
+          "timestamp": 1731781486636
+        },
+        {
+          "role": "bot",
+          "content": "**Concise Conclusion:**\n\nParotid lipomas are rare tumors that can be difficult to diagnose. MRI is the optimal tool for diagnosis and surgical planning, while histopathology provides definitive confirmation.\n\nSurgeons performing parotid surgery must have significant experience and skill to avoid facial nerve injuries and ensure positive postoperative outcomes.",
+          "timestamp": 1731781495033
+        }
+      ]
+    },
+    {
+      "id": "1731781147037",
+      "title": "❓ Relevant content from current note:\n---\n...",
+      "timestamp": 1731781147037,
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is this note about?",
+          "timestamp": 1731781153840
+        },
+        {
+          "role": "bot",
+          "content": "This note is about a rare case of lipoma in the parotid gland. Lipomas are benign tumors composed of fat cells, and they are most commonly found in the trunk and upper extremities. However, they can also occur in the head and neck regions, including the parotid gland. The diagnosis of a parotid gland lipoma can be challenging, as it can be mistaken for other types of tumors. However, with the use of imaging techniques such as MRI and CT scans, a more accurate diagnosis can be made. The treatment for a parotid gland lipoma is typically surgical excision, and the prognosis is generally good.",
+          "timestamp": 1731781156710
+        },
+        {
+          "role": "user",
+          "content": "What is the size of the lesion",
+          "timestamp": 1731781170910
+        },
+        {
+          "role": "bot",
+          "content": "The CT scan revealed a well-defined 48 x 38 mm lesion with Hounsfield units (HU) of -100 in the right parotid gland involving the superficial and deep lobes.",
+          "timestamp": 1731781173498
+        },
+        {
+          "role": "user",
+          "content": "what was the size in local exam",
+          "timestamp": 1731781218409
+        },
+        {
+          "role": "bot",
+          "content": "On local examination, a solitary swelling of about 4 x 3 cm was found in the right pre-auricular region, causing the ear lobule to lift upwards.",
+          "timestamp": 1731781222143
+        }
+      ]
+    },
+    {
+      "id": "1731781055148",
+      "title": "💭 Chat about Size, Lesion, Lipoma",
+      "timestamp": 1731781055148,
+      "messages": [
+        {
+          "role": "user",
+          "content": "what is the size of the lesion?  Lipoma Draft 1",
+          "timestamp": 1731781079012
+        },
+        {
+          "role": "bot",
+          "content": "The provided text does not specify the size of the lesion.",
+          "timestamp": 1731781081445
+        },
+        {
+          "role": "user",
+          "content": "what is the size of the swelling  Lipoma Draft 1",
+          "timestamp": 1731781132662
+        },
+        {
+          "role": "bot",
+          "content": "The provided text does not specify the size of the swelling.",
+          "timestamp": 1731781134995
+        }
+      ]
+    },
+    {
+      "id": "1731780955003",
+      "title": "📝 Summary: Document",
+      "timestamp": 1731780955003,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you summarize this note for me? Lipoma Draft 1",
+          "timestamp": 1731780966558
+        },
+        {
+          "role": "bot",
+          "content": "**Lipoma**\n\n**Summary:**\n\n* A lipoma is a benign, slow-growing tumor composed of fat cells.\n* It is usually found under the skin, often on the back, neck, shoulders, and arms.\n* Lipomas are generally soft and movable.\n* They typically do not cause pain or discomfort, unless they grow large or compress nearby nerves.\n* Diagnosis is usually made through a physical examination and symptoms.\n* Treatment is not typically necessary, unless the lipoma is large, causing discomfort, or affecting mobility.\n* Treatment options include surgical removal, liposuction, and injection of medications to dissolve the lipoma.",
+          "timestamp": 1731780970650
+        },
+        {
+          "role": "user",
+          "content": "What was the size of lipoma  Lipoma Draft 1",
+          "timestamp": 1731781018333
+        },
+        {
+          "role": "bot",
+          "content": "The provided text does not specify the size of the lipoma.",
+          "timestamp": 1731781020513
+        },
+        {
+          "role": "user",
+          "content": "Can you summarize this note for me? Lipoma Draft 1",
+          "timestamp": 1731780966558
+        },
+        {
+          "role": "user",
+          "content": "What was the size of lipoma  Lipoma Draft 1",
+          "timestamp": 1731781018333
+        },
+        {
+          "role": "bot",
+          "content": "The provided text does not specify the size of the lipoma.",
+          "timestamp": 1731781020513
+        },
+        {
+          "role": "bot",
+          "content": "**Lipoma**\n\n**Summary:**\n\n* A lipoma is a benign, slow-growing tumor composed of fat cells.\n* It is usually found under the skin, often on the back, neck, shoulders, and arms.\n* Lipomas are generally soft and movable.\n* They typically do not cause pain or discomfort, unless they grow large or compress nearby nerves.\n* Diagnosis is usually made through a physical examination and symptoms.\n* Treatment is not typically necessary, unless the lipoma is large, causing discomfort, or affecting mobility.\n* Treatment options include surgical removal, liposuction, and injection of medications to dissolve the lipoma.",
+          "timestamp": 1731780970650
+        }
+      ]
+    }
+  ]
+}

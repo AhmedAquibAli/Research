@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "71ede01e2a6041fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0238b7a6f33c1a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a9a4370b6ab43e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statisitcs/Kaplan-Meier curve.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kaplan-Meier curve"
+            }
+          },
+          {
+            "id": "09553a5618854de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transhumanism.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Transhumanism"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87fdc29d15f99afc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b442f39fbdd3771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c342e3f674d1e77a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b752fd12462e7e3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1bc9c6e58dd0e139",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "ca0dd732fc788b75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "df07fd8e4328f96e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "58ac2d2ca4a3766b",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f7c589f438e6b3",
+        "type": "tabs",
+        "dimension": 28.829787234042552,
+        "children": [
+          {
+            "id": "475b72d54f9c93b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Statisitcs/Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "863a6cbc984ea3cd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.41587285090086945,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Parotid Lipoma Draft 1"
+            }
+          },
+          {
+            "id": "494b04dd1cc52169",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Transhumanism.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Transhumanism"
+            }
+          },
+          {
+            "id": "a8a97a842c5676e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "013deb8c26ca4cf6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3eca4df43cb507e0",
+        "type": "tabs",
+        "dimension": 71.17021276595744,
+        "children": [
+          {
+            "id": "5f731f065f13e6cb",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "d03638b65c9c2a8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statisitcs/Kaplan-Meier curve.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kaplan-Meier curve"
+            }
+          },
+          {
+            "id": "ba966a6679d0140a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Statisitcs/Kaplan-Meier curve.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kaplan-Meier curve"
+            }
+          },
+          {
+            "id": "18d673e4d54dc29c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Open settings": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "09553a5618854de7",
+  "lastOpenFiles": [
+    "Research/widgets/widget_d029fa3a_.html",
+    "Research/widgets",
+    "Research/paparoRareCaseParotid2016/image-2-x314-y52.png",
+    "Research/paparoRareCaseParotid2016",
+    "Research/kuntzGastrointestinalCancerClassification2021/image-4-x114-y488.png",
+    "Research/kuntzGastrointestinalCancerClassification2021/image-3-x55-y128.png",
+    "Research/kuntzGastrointestinalCancerClassification2021",
+    "Research/iyengarObesityCancerLocal2015/image-2-x233-y245.png",
+    "Research/iyengarObesityCancerLocal2015",
+    "Research/exports/Untitled/Untitled_quarto.qmd",
+    "Research/exports/Untitled",
+    "Research/exports",
+    "Research/estevaDermatologistlevelClassificationSkin2017/image-9-x60-y366.png",
+    "Research/estevaDermatologistlevelClassificationSkin2017",
+    "Research/Zotero/Templates/Separate Highlights with headings.md",
+    "Research/Zotero/Templates/Persisted Annotations.md",
+    "Research/Zotero/Templates/Paper Template.md",
+    "Research/Zotero/Templates/Formatted Annotations.md",
+    "Research/Zotero/Templates/Basic import with properties.md",
+    "Research/Zotero/Templates",
+    "Research/Zotero/@salehBrownRiceWhite2019.md",
+    "Research/Zotero/@paparoRareCaseParotid2016.md",
+    "Research/Zotero/@kuntzGastrointestinalCancerClassification2021.md",
+    "Research/Zotero/@estevaDermatologistlevelClassificationSkin2017.md",
+    "Research/Zotero",
+    "Research/Untitled.canvas",
+    "Research/Transhumanism/attachments/Pasted image 20240907104601.png",
+    "Research/Transhumanism/attachments/Pasted image 20240907104557.png",
+    "Research/Transhumanism/attachments/Pasted image 20240907104539.png",
+    "Research/Transhumanism/attachments/Pasted image 20240905182506.png",
+    "Research/Transhumanism/attachments/Pasted image 20240905182420.png",
+    "Research/Transhumanism/asdfljasf.md",
+    "Research/Transhumanism/Untitled.canvas",
+    "Research/Transhumanism/Transhumanism Poster.canvas",
+    "Research/Transhumanism/Inspiration board.md",
+    "Research/Transhumanism.md",
+    "Research/Statisitcs/log-rank test.md",
+    "Research/Statisitcs/Untitled.md",
+    "Research/Statisitcs/Untitled 1.md",
+    "Research/Statisitcs/Kaplan-Meier curve.md",
+    "Research/Statisitcs/Composite Outcomes.md",
+    "Research/Parotid Lipoma/lipoma.md",
+    "Research/Parotid Lipoma/Untitled.md",
+    "Research/Parotid Lipoma/Research CV.md",
+    "Research/Parotid Lipoma/Parotid Lipoma Draft 1.md",
+    "Research/Parotid Lipoma/LOR.md",
+    "Research/Electives/Yale school of medicine.md",
+    "Research/Electives/Wiel cornell.md",
+    "Research/Electives/University of North Carolina.md",
+    "Research/CNN.canvas",
+    "Zotero/Untitled.canvas",
+    "Transhumanism/Transhumanism Poster.canvas",
+    "CNN.canvas",
+    "Transhumanism/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

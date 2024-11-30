@@ -1,0 +1,19 @@
+{
+  "pathToPandoc": "/usr/local/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1732980001246
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/nature.csl",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "hideLinks": true
+}
