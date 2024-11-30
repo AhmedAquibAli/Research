@@ -26,13 +26,15 @@
             "id": "09553a5618854de7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Statisitcs/[Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
-                "staged": false
+                "file": "Transhumanism.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               },
-              "icon": "git-pull-request",
-              "title": "Diff View ([Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf)"
+              "icon": "lucide-file",
+              "title": "Transhumanism"
             }
           }
         ],
@@ -113,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252
   },
   "right": {
     "id": "58ac2d2ca4a3766b",
@@ -122,7 +124,7 @@
       {
         "id": "86f7c589f438e6b3",
         "type": "tabs",
-        "dimension": 30.020283975659233,
+        "dimension": 28.829787234042552,
         "children": [
           {
             "id": "475b72d54f9c93b3",
@@ -142,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Statisitcs/Untitled.md",
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,12 +167,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5530150912162567,
+                  "scale": 0.41587285090086945,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Parotid Lipoma Draft 1"
             }
           },
           {
@@ -179,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md"
+                "file": "Transhumanism.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Parotid Lipoma Draft 1"
+              "title": "File properties for Transhumanism"
             }
           },
           {
@@ -213,12 +215,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3eca4df43cb507e0",
         "type": "tabs",
-        "dimension": 69.97971602434077,
+        "dimension": 71.17021276595744,
         "children": [
           {
             "id": "5f731f065f13e6cb",
@@ -236,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statisitcs/Untitled.md",
+                "file": "Statisitcs/Kaplan-Meier curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Kaplan-Meier curve"
             }
           },
           {
@@ -255,12 +257,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statisitcs/Untitled.md",
+                "file": "Statisitcs/Kaplan-Meier curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Kaplan-Meier curve"
             }
           },
           {
@@ -273,8 +275,7 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -295,27 +296,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "863a6cbc984ea3cd",
+  "active": "ca0dd732fc788b75",
   "lastOpenFiles": [
-    "Statisitcs/Untitled 1.md",
+    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+    "Parotid Lipoma/Untitled.md",
+    "Parotid Lipoma/Research CV.md",
+    "Parotid Lipoma/LOR.md",
+    "Parotid Lipoma/lipoma.md",
+    "Parotid Lipoma/Images/fig1.png",
+    "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
+    "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
+    "Parotid Lipoma/Images/1c8bdb4c9d95c928fa6c41a7e665d8fe3e093e6f42982f99e03fc4b740ca2a67.png",
     "Statisitcs/Untitled.md",
+    "Statisitcs/Kaplan-Meier curve.md",
+    "Statisitcs/Untitled 1.md",
+    "Statisitcs/Composite Outcomes.md",
+    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research.pdf",
     "Statisitcs/log-rank test.md",
     "exports/Untitled/Untitled_quarto.qmd",
     "exports/Untitled",
     "exports",
-    "Statisitcs/Kaplan-Meier curve.md",
-    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
     "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf.md",
-    "Statisitcs/Composite Outcomes.md",
     "Zotero/@estevaDermatologistlevelClassificationSkin2017.md",
     "Zotero/Templates/Separate Highlights with headings.md",
     "{{annot.imageRelativePath}}.md",
     "Zotero/Templates/Basic import with properties.md",
     "Zotero/Untitled.canvas",
-    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
     "Zotero/Templates",
     "Statisitcs",
-    "Parotid Lipoma/Research CV.md",
     "Research/{{annot.imageRelativePath}}.md",
     "Research/Untitled.canvas",
     "Research/Composite Outcomes.md",
@@ -325,23 +333,15 @@
     "Research/@kuntzGastrointestinalCancerClassification2021.md",
     "Research/@estevaDermatologistlevelClassificationSkin2017.md",
     "Research",
-    "Parotid Lipoma/Untitled.md",
-    "Parotid Lipoma/LOR.md",
-    "Parotid Lipoma/lipoma.md",
     "Zotero/@kuntzGastrointestinalCancerClassification2021.md",
     "kuntzGastrointestinalCancerClassification2021/image-3-x55-y128.png",
     "Parotid Lipoma/Images/fig2.png",
     "Parotid Lipoma/Images/fig3.png",
     "paparoRareCaseParotid2016/image-2-x314-y52.png",
-    "Parotid Lipoma/Images/fig1.png",
     "Electives/John Hopkins Research Elective.md",
     "Electives/Electives database.md",
     "Electives/Cleveland Clinic.md",
-    "Electives/UAB-University of Alabama.md",
     "Parotid Lipoma/Images/fig4.png",
-    "Parotid Lipoma/Images/1c8bdb4c9d95c928fa6c41a7e665d8fe3e093e6f42982f99e03fc4b740ca2a67.png",
-    "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
-    "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
     "Parotid Lipoma/Images",
     "Parotid Lipoma",
     "Transhumanism/Transhumanism Poster.canvas",
