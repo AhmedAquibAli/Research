@@ -35,4 +35,6 @@ In short, the Kaplan-Meier analysis provides a powerful and flexible way to anal
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)
 =======
 In short, the Kaplan-Meier analysis provides a powerful and flexible way to analyze survival data, especially when dealing with censored observations.  It’s a valuable tool for understanding time-to-event data in many different fields.
+
+[[Handbook for Designing and Conducting Clinical and Translational Research.pdf#page=511&selection=37,0,38,48|Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li, page 511]]
 >>>>>>> parent of 4fe6105 (vault backup: 2024-11-30 14:49:48)

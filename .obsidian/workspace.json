@@ -14,6 +14,23 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
+              "title": "Kaplan-Meier curve"
+            }
+          },
+          {
+            "id": "09553a5618854de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transhumanism.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Transhumanism"
+            }
               "title": "New tab"
             }
           }
@@ -73,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252
   },
   "right": {
     "id": "242c9019d1feab8e",
@@ -82,6 +99,7 @@
       {
         "id": "242ba71cb92af1df",
         "type": "tabs",
+        "dimension": 30.020283975659233,
         "children": [
           {
             "id": "4af9a20265c1bea7",
@@ -107,11 +125,47 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Statisitcs/Untitled.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5530150912162567,
+                  "close": true
+                }
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-git-fork",
+              "title": "Graph of Untitled"
+            }
+          },
+          {
+            "id": "494b04dd1cc52169",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Parotid Lipoma/Parotid Lipoma Draft 1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Parotid Lipoma Draft 1"
             }
           },
           {
@@ -131,10 +185,75 @@
             "id": "4f78dc811823d0f8",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3eca4df43cb507e0",
+        "type": "tabs",
+        "dimension": 69.97971602434077,
+        "children": [
+          {
+            "id": "5f731f065f13e6cb",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
               "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "d03638b65c9c2a8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statisitcs/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "ba966a6679d0140a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Statisitcs/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "18d673e4d54dc29c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ]
@@ -154,6 +273,60 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc04843e689e5404",
-  "lastOpenFiles": []
+  "active": "863a6cbc984ea3cd",
+  "lastOpenFiles": [
+    "Statisitcs/Untitled 1.md",
+    "Statisitcs/Untitled.md",
+    "Statisitcs/log-rank test.md",
+    "exports/Untitled/Untitled_quarto.qmd",
+    "exports/Untitled",
+    "exports",
+    "Statisitcs/Kaplan-Meier curve.md",
+    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf",
+    "Statisitcs/Handbook for Designing and Conducting Clinical and Translational Research] Adam E.M. Eltorai (editor), Jeffrey A. Bakal (editor), Paige C. - Translational Surgery (2023, Academic Press) - libgen.li.pdf.md",
+    "Statisitcs/Composite Outcomes.md",
+    "Zotero/@estevaDermatologistlevelClassificationSkin2017.md",
+    "Zotero/Templates/Separate Highlights with headings.md",
+    "{{annot.imageRelativePath}}.md",
+    "Zotero/Templates/Basic import with properties.md",
+    "Zotero/Untitled.canvas",
+    "Parotid Lipoma/Parotid Lipoma Draft 1.md",
+    "Zotero/Templates",
+    "Statisitcs",
+    "Parotid Lipoma/Research CV.md",
+    "Research/{{annot.imageRelativePath}}.md",
+    "Research/Untitled.canvas",
+    "Research/Composite Outcomes.md",
+    "Research/CNN.canvas",
+    "Research/@salehBrownRiceWhite2019.md",
+    "Research/@paparoRareCaseParotid2016.md",
+    "Research/@kuntzGastrointestinalCancerClassification2021.md",
+    "Research/@estevaDermatologistlevelClassificationSkin2017.md",
+    "Research",
+    "Parotid Lipoma/Untitled.md",
+    "Parotid Lipoma/LOR.md",
+    "Parotid Lipoma/lipoma.md",
+    "Zotero/@kuntzGastrointestinalCancerClassification2021.md",
+    "kuntzGastrointestinalCancerClassification2021/image-3-x55-y128.png",
+    "Parotid Lipoma/Images/fig2.png",
+    "Parotid Lipoma/Images/fig3.png",
+    "paparoRareCaseParotid2016/image-2-x314-y52.png",
+    "Parotid Lipoma/Images/fig1.png",
+    "Electives/John Hopkins Research Elective.md",
+    "Electives/Electives database.md",
+    "Electives/Cleveland Clinic.md",
+    "Electives/UAB-University of Alabama.md",
+    "Parotid Lipoma/Images/fig4.png",
+    "Parotid Lipoma/Images/1c8bdb4c9d95c928fa6c41a7e665d8fe3e093e6f42982f99e03fc4b740ca2a67.png",
+    "Parotid Lipoma/Images/7f8ecb1fbf5423386c9293372597f14e35e833b42b528fcff0d52d53e68b7275.png",
+    "Parotid Lipoma/Images/78fe1821bbb853e8cfdb6dff594bef98c28ccbf07e47b9863110ac4e5f79c3d1.png",
+    "Parotid Lipoma/Images",
+    "Parotid Lipoma",
+    "Transhumanism/Transhumanism Poster.canvas",
+    "kuntzGastrointestinalCancerClassification2021/image-4-x114-y488.png",
+    "CNN.canvas",
+    "Transhumanism/Untitled.canvas",
+    "Untitled.canvas",
+    "Electives"
+  ]
 }
